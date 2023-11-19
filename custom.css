@@ -1,0 +1,48 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+h2 { color: #860A35;}
+
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #FFC7C7 !important;}
+
+.bg-primary {
+    background-color: #F6F1E9 !important;}
+.bg-primary {
+    background-image: url("icecreamm.jpeg") !important;
+}
+
+.btn-light {
+    color: #f8f9fa;
+    background-color: #860A35;
+    border-color: #FFC5C5;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: #F4DFC8 !important;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #860A35;
+    border-color: #FFC5C5;
+}
+
+body {font-family:'Alegreya', serif; color: black; background-color: #FFFBF5;}
+}
+
+
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: white;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: white;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration:none; 
+	color: #860A35;
+	}
